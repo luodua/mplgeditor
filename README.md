@@ -1,2 +1,2 @@
-# mplg
-Math Programming Language
+# mplgeditor
+Math Programming Language Editor
